@@ -22,4 +22,4 @@ Some groundrules:
  * We are bound by nothing written down, but only by what we can build up. 
  * Have fun!
  
-Let's see what we do. 
+Let's see what we can do. 
